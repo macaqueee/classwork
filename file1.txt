@@ -1,1 +1,2 @@
 text for first commit
+text for commit to branch 'new_branch'
