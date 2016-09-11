@@ -1,2 +1,3 @@
 text for first commit
-text for commit to branch 'new_branch'
+text for commit to branch 'new_branchi'
+there is new commit
