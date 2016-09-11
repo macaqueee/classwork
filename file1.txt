@@ -1,3 +1,7 @@
 text for first commit
 text for commit to branch 'new_branchi'
 there is new commit
+
+
+
+look. this is line for branch 'new_branch'
